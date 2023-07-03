@@ -1,4 +1,4 @@
-This repository contains code and materials for the paper _Efficient and Effective Detection of Repeated Pattern from Fronto-Parallel Images with Unknown Visual Contents,_ contributed by Hong Qu, Yanghong Zhou, K.P. Chau, and P.Y. Mok. All rights reserved by authors.
+This repository contains code and materials for the paper _Efficient and Effective Detection of Repeated Pattern from Fronto-Parallel Images with Unknown Visual Contents,_ contributed by Hong Qu, Yanghong Zhou, K. P. Chau, and P. Y. Mok*. All rights reserved by authors.
 
 -----
 ## Introduction
