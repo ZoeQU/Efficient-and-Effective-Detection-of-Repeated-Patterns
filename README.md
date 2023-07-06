@@ -11,5 +11,8 @@ This study is on the efficient detection of repeated patterns from unknown front
 
 the proposed RPD dataset under link: https://pan.baidu.com/s/1Feul3m17limKiTTewMmWlQ?pwd=m9zn
 
-## Resources
+## Related resources
 related weights under link: https://pan.baidu.com/s/1fAMODQK3izoWLJRZM51xLg?pwd=lle8 
+
+## Configuration file
+Please see the _requirements.txt_
